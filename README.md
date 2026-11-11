@@ -53,13 +53,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=razaulshoaib&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=razaulshoaib&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=razaulshoaib&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=razaulshoaib&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaulshoaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaulshoaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="55%" alt="Top Languages"/>
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=razaulshoaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=razaulshoaib&theme=tokyonight&no-frame=true&margin-w=10&column=4" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
