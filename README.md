@@ -59,7 +59,7 @@
 
 <br/><br/>
 
-<img src="https://ghstats.dev/api/languages?username=razaulshoaib&theme=tokyonight" width="65%" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=razaulshoaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="65%" alt="Top Programming Languages"/>
 
 </div>
 
