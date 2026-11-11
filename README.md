@@ -53,23 +53,26 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=razaulshoaib&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=razaulshoaib&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
 
 <img src="https://streak-stats.demolab.com?user=razaulshoaib&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaulshoaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="55%" alt="Top Languages"/>
+<img src="https://ghstats.dev/api/languages?username=razaulshoaib&theme=tokyonight" width="65%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Developer Journey
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=razaulshoaib&theme=tokyonight&no-frame=true&margin-w=10&column=4" width="100%" alt="GitHub Trophies"/>
+![Student](https://img.shields.io/badge/Student-Lifelong%20Learner-70A5FD?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full--Stack-Developer-BB9AF7?style=for-the-badge)
+![AI ML](https://img.shields.io/badge/AI%2FML-Enthusiast-9ECE6A?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-7AA2F7?style=for-the-badge)
 
 </div>
 
